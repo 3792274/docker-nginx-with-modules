@@ -1,7 +1,6 @@
 #!/usr/bin/bash
 
 NGINX_VERSION=1.21.5;
-TAG=base-$NGINX_VERSION-alpine;
 GIT=https://github.com/nginxinc/docker-nginx.git;
 
 USERID=s3792274;
