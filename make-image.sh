@@ -1,6 +1,6 @@
 #!/usr/bin/bash
 
-NGINX_VERSION=1.21.6;
+NGINX_VERSION=1.23.2;
 GIT=https://github.com/nginxinc/docker-nginx.git;
 
 USERID=s3792274;
